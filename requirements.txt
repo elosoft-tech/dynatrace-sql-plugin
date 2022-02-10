@@ -1,9 +1,9 @@
 Flask==1.0.4
 requests==2.21.0
 urllib3==1.24.2
-apscheduler==3.6.3
+apscheduler==3.8.1
 connexion[swagger-ui]
 pyodbc
-pymongo
+pymongo==4.0.1
 python-decouple
 cryptography
